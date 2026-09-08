@@ -1,0 +1,22 @@
+﻿Subject ID,Name,Age,Gender,Annual Income,Monthly Income,Education,Education Rank,Phone Owned,Brand,Is Phone?,High Earner (RM5k+/mth)?,Email,Web,Mobile,Walk-In,Video Call,Phone Call,Letter,Channels Selected
+1,Ali,22,M,"15,000",1250.00,Highschool,2,Samsung Galaxy S3,Samsung,Yes,No,1,1,1,1,0,0,0,4
+2,Mutu,25,M,"30,000",2500.00,Diploma,3,HTC One Note,HTC,Yes,No,1,1,1,0,0,0,0,3
+3,Lim,33,M,"36,000",3000.00,Diploma,3,iPhone 5,Apple,Yes,No,1,1,1,0,1,0,0,4
+4,Angie,47,F,"45,000",3750.00,Diploma,3,iPhone 6s,Apple,Yes,No,1,0,0,1,1,1,1,5
+5,Jack,26,M,"25,000",2083.33,Degree,4,Xiaomi MI3,Xiaomi,Yes,No,1,1,1,0,0,0,0,3
+6,Mambutu,35,M,"18,000",1500.00,Primary,1,Hua Wei Honour 6,Huawei,Yes,No,1,1,1,1,1,1,0,6
+7,Pierre,54,M,"120,000",10000.00,Degree,4,Nokia E63,Nokia,Yes,Yes,1,0,0,0,0,1,1,3
+8,Valerie,32,F,"80,000",6666.67,Masters,5,iPhone 3Gs,Apple,Yes,Yes,1,1,1,0,1,0,0,4
+9,Farah,19,F,"12,000",1000.00,Primary,1,HTC Mozart 7,HTC,Yes,No,0,0,1,1,0,1,0,3
+10,Muhammad,22,M,"16,000",1333.33,Primary,1,HTC One E8,HTC,Yes,No,1,1,1,0,0,0,0,3
+11,Regina,22,F,"15,000",1250.00,Highschool,2,iPhone 6+,Apple,Yes,No,1,1,1,0,1,0,0,4
+12,Trevor,25,M,"30,000",2500.00,Diploma,3,OnePlus 2,OnePlus,Yes,No,1,0,1,0,0,0,0,2
+13,Melinda,39,F,"33,000",2750.00,Diploma,3,Samsung Galaxy A8,Samsung,Yes,No,1,0,0,0,0,0,0,1
+14,Aishah,45,F,"42,000",3500.00,Diploma,3,Lenovo VIBE Shot,Lenovo,Yes,No,1,0,0,0,0,0,0,1
+15,Abdullah,26,M,"25,000",2083.33,Degree,4,iPhone 5s,Apple,Yes,No,1,1,1,0,1,0,0,4
+16,Rizal,35,M,"18,000",1500.00,Primary,1,Xiaomi MI3,Xiaomi,Yes,No,1,1,1,0,0,0,0,3
+17,Wong,51,M,"110,000",9166.67,Degree,4,iPhone 6s+,Apple,Yes,Yes,1,0,0,0,1,1,1,4
+18,Jill,29,F,"75,000",6250.00,Masters,5,iPhone 6s,Apple,Yes,Yes,1,1,0,0,1,0,0,3
+19,Polly,21,F,"12,200",1016.67,Primary,1,Xiaomi Pad Tablet,Xiaomi,No,No,1,1,1,1,0,0,0,4
+20,Wanda,23,F,"17,000",1416.67,Primary,1,Xiaomi MI4,Xiaomi,Yes,No,1,1,1,0,0,0,0,3
+,,,,,,,,,,,,,,,,,,,
